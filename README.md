@@ -53,8 +53,11 @@ Implemented in `part2a.py` using `CauchyProblem`, `step_rk4`, and `meth_n_step`:
   - The code detects successive maxima of \(N(t)\) and estimates an average oscillation period for the prey–predator cycle. 
 
 ![Phase portrait in the ((N,P)) plane](figures/lotka_phase.png)
+*Phase portrait in the ((N,P)) plane*
 ![Time evolution of (N(t)) and (P(t))](figures/lotka_time_series.png)
+*Time evolution of (N(t)) and (P(t))*
 ![Vector field and trajectories around the non-trivial equilibrium](figures/lotka_vector_field_eq.png)
+*Vector field and trajectories around the non-trivial equilibrium*
 
 
 ## Pendulum dynamics
