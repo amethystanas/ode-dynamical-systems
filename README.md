@@ -88,8 +88,8 @@ Key visual results:
    - Uses `matplotlib.animation.FuncAnimation` to show the evolving configuration of the double pendulum over time.
 
 
-![Trajectories of the double pendulum’s end point for nearby initial angles.](figures/trajectoires_double_pendule.png) 
-![Fractal map of first flip times over the \((\theta_1(0),\theta_2(0))\) plane](figures/flip_time_map_fractal.png) 
+![Trajectories of the double pendulum’s end point for nearby initial angles.](figures/trajectoires_double_pendule.png "Trajectories of the double pendulum’s end point for nearby initial angles.")
+![Fractal map of first flip times over the \((\theta_1(0),\theta_2(0))\) plane](figures/flip_time_map_fractal.png "Fractal map of first flip times over the \((\theta_1(0),\theta_2(0))\) plane") 
 
 ## How to run
 
